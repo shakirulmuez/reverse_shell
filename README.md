@@ -3,7 +3,7 @@ This program use to create a reverse shell in our host to listen to other victim
 
 Steps:
   1. Make sure the attacker and victim host can commnunicate to each other.
-  * - to check on this ping each other IP
+*   to check on this ping each other IP
   2. Copy and run the attacker_host.sh in attacker host.
 *   $ chmod +x attacker_host.sh
 *   $ ./attacker_host.sh
