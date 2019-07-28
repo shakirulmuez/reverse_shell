@@ -5,12 +5,12 @@ Steps:
   1. Make sure the attacker and victim host can commnunicate to each other.
 *   to check on this ping each other IP
   2. Copy and run the attacker_host.sh in attacker host.
-```sh
+```
 $ chmod +x attacker_host.sh
 $ ./attacker_host.sh
 ```
 3. Copy and run victim_host.sh in victim host.
-```sh
+```
 $ chmod +x victim_host.sh
 $ ./victim_host.sh
 ```
